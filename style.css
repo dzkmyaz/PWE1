@@ -1,0 +1,116 @@
+<>
+      /* Custom CSS */
+      body {
+        background-image: url("background.jpeg"); /* Ganti dengan nama file gambar Anda */
+        background-size: cover; /* Mengatur ukuran gambar untuk menutupi seluruh latar belakang */
+        background-position: center; /* Menempatkan gambar di tengah */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+        font-family: "Arial", sans-serif;
+      }
+      header {
+        background-color: rgba(52, 58, 64, 0.8); /* Tambahkan transparansi untuk header */
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+        position: relative;
+      }
+      header img {
+        position: absolute;
+        left: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 50px; /* Ukuran logo */
+      }
+      .profile-img {
+        width: 150px;
+        border-radius: 50%;
+      }
+      .section-title {
+        margin-top: 40px;
+        color: #343a40;
+      }
+      .background-box {
+        background-color: rgba(255, 255, 255, 0.8); /* Warna latar belakang putih transparan */
+        border-radius: 10px; /* Sudut membulat */
+        padding: 20px; /* Ruang di dalam kotak */
+        margin-bottom: 40px; /* Jarak antar bagian */
+      }
+      footer {
+        background-color: rgba(52, 58, 64, 0.8); /* Tambahkan transparansi untuk footer */
+        color: white;
+        padding: 10px 0;
+        text-align: center;
+      }
+      footer a {
+        font-size: 24px; /* Ukuran ikon */
+        transition: color 0.3s; /* Transisi warna */
+      }
+      footer a:hover {
+        color: #ffcc00; /* Warna saat hover */
+      }
+      .skill-icon {
+        width: 60px; /* Ukuran ikon keterampilan */
+        margin-bottom: 10px; /* Jarak di bawah ikon */
+      /* Custom CSS */
+body {
+    background-image: url("background.jpeg"); /* Ganti dengan nama file gambar Anda */
+    background-size: cover; /* Mengatur ukuran gambar untuk menutupi seluruh latar belakang */
+    background-position: center; /* Menempatkan gambar di tengah */
+    background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+    font-family: "Arial", sans-serif;
+  }
+  
+  header {
+    background-color: rgba(52, 58, 64, 0.8); /* Tambahkan transparansi untuk header */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+  }
+  
+  header img {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px; /* Ukuran logo */
+  }
+  
+  .profile-img {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .section-title {
+    margin-top: 40px;
+    color: #343a40;
+  }
+  
+  .background-box {
+    background-color: rgba(255, 255, 255, 0.8); /* Warna latar belakang putih transparan */
+    border-radius: 10px; /* Sudut membulat */
+    padding: 20px; /* Ruang di dalam kotak */
+    margin-bottom: 40px; /* Jarak antar bagian */
+  }
+  
+  footer {
+    background-color: rgba(52, 58, 64, 0.8); /* Tambahkan transparansi untuk footer */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  footer a {
+    font-size: 24px; /* Ukuran ikon */
+    transition: color 0.3s; /* Transisi warna */
+  }
+  
+  footer a:hover {
+    color: #ffcc00; /* Warna saat hover */
+  }
+  
+  .skill-icon {
+    width: 60px; /* Ukuran ikon keterampilan */
+    margin-bottom: 10px; /* Jarak di bawah ikon */
+  }
+  
